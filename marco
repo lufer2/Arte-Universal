@@ -1,0 +1,12 @@
+<html>
+
+<frameset cols="120,*" border="0" frameborder="0">
+<frame noresize name="arriba" src="marcoo3.html">
+
+<frameset rows=140,*">
+<frame noresize src="marcoo1.html">
+<frame noresize name="enmedio" src="marcoo2.html">
+</frameset>
+</frameset>
+
+</html>
